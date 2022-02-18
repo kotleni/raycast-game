@@ -1,3 +1,5 @@
+package raycast
+
 fun toRadian(v: Int): Double {
     return v * Math.PI / 180
 }

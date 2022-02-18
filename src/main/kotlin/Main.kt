@@ -1,3 +1,6 @@
-fun main(args: Array<String>) {
-    Game().start()
+import raycast.GameWindow
+
+fun main() {
+    GameWindow()
+        .start()
 }

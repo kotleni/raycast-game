@@ -1,3 +1,3 @@
 
-rootProject.name = "sdlgame"
+rootProject.name = "raycast-game2"
 
